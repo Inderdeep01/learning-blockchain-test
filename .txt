@@ -1,0 +1,7 @@
+{
+  address: '0xA6bf402b9c8f0BDC3ff075959E12bD11BCB13628',
+  privateKey: '0x0ccdc1ed755cc34ce2ce81bfa2ef16e09311bf989cdd6e52f3910b943cf1e403',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]
+}
